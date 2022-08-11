@@ -49,12 +49,13 @@ In summary, below we have two histograms to better demostrate the tempatures in 
 
 ![December Temps Histogram](https://github.com/ABorden23/surfs_up/blob/main/Resources/December%20Temps%20Histogram.png)
 
-In conclusion the weather in June and December is fairly similar and justifys for a year long business venture weather wise.  
-
-O‘ahu can respectivily be known as one the best places in the world to own a Ice Cream/Surf Shop. 
-
 ### Comparison June vs. December Tempatures 
+
 * June Tempatures are (on average) about 3 F° warmer than temperatures in December
 * The range of tempatures for December is Greater
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+
+In conclusion the weather in June and December is fairly similar and justifys for a year long business venture weather wise.  
+
+O‘ahu can respectivily be known as one the best places in the world to own a Ice Cream/Surf Shop
