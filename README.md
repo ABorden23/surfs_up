@@ -10,6 +10,8 @@ Other tools include Python and Jupyter Notebooks.
 
 # Overview 
 
+The purpose of this repo is to use SQLite and  SQLAlchemy to find the trends of temperature  data for the months of June and December in Oahu, in order to determine if the surf and Ice Cream shop business is sustainable year-round.
+
 # Results
 
 ### June Weather Summary
@@ -34,20 +36,22 @@ The Lowest Tempature observed was 56.0 F°
 
 3 Key Differences Between June and December Weather 
 
-*
-*
-*
+*  Average temperatures in June is 75 F°  and December is 71 F°   with a minimum of 64 F° in June and 56 F° in December.
+* The Maximum in June Maxes out at 85 F° and 83 F° in December. 
+* The standard deviation for June reads 3.257417 and 3.745920.
+
 
 # Summary
 
-In summary, we have shown below two histograms to better demostrate the tempatures in Summer Vs. Winter. 
-
-
+In summary, below we have two histograms to better demostrate the tempatures in Summer Vs. Winter. 
 
 ![June Temps Histogram](https://github.com/ABorden23/surfs_up/blob/main/Resources/June%20Temps%20Histogram.png)
 
-
 ![December Temps Histogram](https://github.com/ABorden23/surfs_up/blob/main/Resources/December%20Temps%20Histogram.png)
+
+In conclusion the weather in June and December is fairly similar and justifys for a year long business venture weather wise.  
+
+O‘ahu can respectivily be known as one the best places in the world to own a Ice Cream/Surf Shop. 
 
 ### Comparison June vs. December Tempatures 
 * June Tempatures are (on average) about 3 F° warmer than temperatures in December
