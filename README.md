@@ -4,4 +4,8 @@ Weather analysis using SQLite and SQLAlchemy. Climate App building using Flask. 
 
 # Overview 
 
+# Results
+
+# Summary
+
 
