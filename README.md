@@ -58,4 +58,4 @@ There is a high-level summary of the results and there are two additional querie
 
 In conclusion the weather in June and December is fairly similar and justifys for a year long business venture weather wise.  
 
-O‘ahu can respectivily be known as one the best places in the world to own a Ice Cream/Surf Shop
+O‘ahu can respectively be known as one the best places in the world to own a Ice Cream/Surf Shop.
